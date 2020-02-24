@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "550456704555",
+    "firebase_url": "https://thamaniukulimaapp.firebaseio.com",
+    "project_id": "thamaniukulimaapp",
+    "storage_bucket": "thamaniukulimaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550456704555:android:2aea162b44d158759b746e",
+        "android_client_info": {
+          "package_name": "com.mobile.thamaniukulimaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550456704555-im6upg2omlnu3r4hrdiluqm36fht6pm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thamaniukulimaapp",
+            "certificate_hash": "3ad496bd1ae03b3346a841bc575c3282f8eaad59"
+          }
+        },
+        {
+          "client_id": "550456704555-h8e7pat08t0cqrqdsj7n9n7ukrn6h9in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANs5W7zSYxqkZ0ycVTSFoV_SwO7X4jDH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550456704555-h8e7pat08t0cqrqdsj7n9n7ukrn6h9in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550456704555-p307f8n7732j653891i5bljud0v9o7nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.tumadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550456704555:android:9cd54c5f964f12149b746e",
+        "android_client_info": {
+          "package_name": "com.mobile.tumadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550456704555-h8e7pat08t0cqrqdsj7n9n7ukrn6h9in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANs5W7zSYxqkZ0ycVTSFoV_SwO7X4jDH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550456704555-h8e7pat08t0cqrqdsj7n9n7ukrn6h9in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550456704555-p307f8n7732j653891i5bljud0v9o7nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.tumadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
